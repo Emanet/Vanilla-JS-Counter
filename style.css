@@ -22,6 +22,7 @@ main {
   width: 500px;
   height: 460px;
   margin: 5rem;
+  transform: translateY(40%);
 }
 button {
   box-shadow: 0px 10px 14px -7px #276873;
