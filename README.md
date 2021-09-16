@@ -2,7 +2,6 @@
 This project is a counter made for practicing JavaScript.
 
 <a href="https://emanet.github.io/Vanilla-JS-Counter/">
-  <img
-    src="![counter](https://user-images.githubusercontent.com/44415149/133606323-4b49d5ee-fb1d-4164-9a0e-1defb8d3a35b.png)"
-    alt=""
-/></a>
+    <img alt="Counter" src="https://user-images.githubusercontent.com/44415149/133606900-167ae138-73c9-4066-8256-174e2578edf5.png"
+</a>
+
