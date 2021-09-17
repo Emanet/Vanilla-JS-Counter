@@ -9,9 +9,9 @@ btns.forEach(function (btn) {
   btn.addEventListener("click", function (e) {
     console.log(e.currentTarget.classList.value);
     if (e.currentTarget.classList.value == "btn decrease") {
-      value.textContent = ++count;
-    } else if (e.currentTarget.classList.value == "btn increase") {
       value.textContent = --count;
+    } else if (e.currentTarget.classList.value == "btn increase") {
+      value.textContent = ++count;
     } else {
       count = 0;
       value.textContent = 0;
